@@ -1,0 +1,9 @@
+# Ignore node_modules and log/output files
+node_modules/
+pin_images/
+download_log.txt
+urls_out.txt
+pinimg_out.txt
+.env
+.DS_Store
+*.log
