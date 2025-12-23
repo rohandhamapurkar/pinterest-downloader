@@ -3,6 +3,7 @@ node_modules/
 pin_images/
 download_log.txt
 urls_out.txt
+urls.txt
 pinimg_out.txt
 .env
 .DS_Store
